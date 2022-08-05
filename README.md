@@ -1,4 +1,4 @@
-# Insurance-cost-prediction
+# Insurance cost prediction
 
 ## Context
 
