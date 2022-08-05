@@ -2,7 +2,7 @@
 
 ## Context
 
-The insurance.csv dataset contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and charges) and 3 nominal features (sex, smoker and region) that were converted into factors with numerical value designated for each level.Th e objective is to accurately predict the insurance cost based on the customers data.
+The  dataset contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and charges) and 3 nominal features (sex, smoker and region) that were converted into factors with numerical value designated for each level.Th e objective is to accurately predict the insurance cost based on the customers data.
 
 ## Content
 
