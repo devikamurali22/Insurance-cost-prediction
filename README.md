@@ -18,3 +18,5 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 *	region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 *	charges: Individual medical costs billed by health insurance
 
+### Inspiration
+Can you accurately predict insurance costs?
