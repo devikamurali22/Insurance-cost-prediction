@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>INSURANCE COST PREDICTION</title>
+</head>
+<body>
+	<h1>INSURANCE COST PREDICTION</h1>
+	<p>To predict the insurance cost</p>
+	<form method = "POST" action="/predict">
+		<p>Age</p>
+		<label for="Age"></label>
+		<input type="text" id="Age" name="Age" placeholder="Age in numeric" >
+		
+		<p>Sex</p>
+		<label for "Sex"></label>
+		<select id="Sex" name="Sex">
+			<option value="0">male</option>
+			<option value="1">female</option>
+		</select>
+		<p>BMI</P>
+		<label for="BMI"></label>
+		<input type="text" id="BMI" name="BMI" >
+		
+		<p>Children</p>
+		<label for "Children"></label>
+		<select id="Children" name="Children">
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select>
+
+		<p>Smoker</p>
+		<label for "Smoker"></label>
+		<select id="Smoker" name="Smoker">
+			<option value="0">yes</option>
+			<option value="1">no</option>
+		</select>
+
+		<p>Region</p>
+		<label for "Region"></label>
+		<select id="Region" name="Region">
+			<option value="1">southwest</option>
+			<option value="0">southeast</option>
+			<option value="3">northwest</option>
+			<option value="2">northeast</option>
+		</select>
+
+		<br>
+		<br>
+
+		<button type="submit">SUBMIT</button>
+
+		</form>
+</body>
+</html>
+		
